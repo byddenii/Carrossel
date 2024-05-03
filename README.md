@@ -11,4 +11,4 @@ Hello, I created a simple carousel with HTML and CSS.
 
 Today I learned how to do a push, commit and pull so here I am in practice.
 
-Required to)!
+Thanks!
